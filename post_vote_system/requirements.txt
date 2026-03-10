@@ -1,0 +1,8 @@
+fastapi[all]
+psycopg2-binary
+python-dotenv
+sqlalchemy
+python-jose
+passlib
+bcrypt
+argon2_cffi
